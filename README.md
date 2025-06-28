@@ -26,7 +26,7 @@ BillWise is a Flutter-based mobile app that lets users create and manage group e
 
 | Profile Page | Delete Confirmation |
 |------------|-----------|
-| <img src="screenshots/profiel_page.jpg" width="300"/> | <img src="screenshots/delete.jpg" width="300"/> |
+| <img src="screenshots/profile_page.jpg" width="300"/> | <img src="screenshots/delete.jpg" width="300"/> |
 
 | Join Group Page | Create Group Page |
 |------------|-----------|
