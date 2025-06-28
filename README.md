@@ -15,7 +15,21 @@ BillWise is a Flutter-based mobile app that lets users create and manage group e
 - Firebase user authentication
 
 ## 📸 Screenshots
-(See how to add below)
+Login Page
+
+Home Page
+
+Group Detail Page
+
+Add Expense Page
+
+Profile Page
+
+Delete Confirmation
+
+Join Group Page
+
+Create Group Page
 
 ## 🚀 How to Run
 1. Clone this repo
