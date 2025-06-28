@@ -1,16 +1,27 @@
-# billwise
+# BillWise – Group Expense Splitter App
 
-A new Flutter project.
+BillWise is a Flutter-based mobile app that lets users create and manage group expenses easily. It helps friends split costs and calculate who owes whom — all in real time.
 
-## Getting Started
+## 🔧 Tech Stack
+- Flutter
+- Firebase (Authentication & Firestore)
+- Dart
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Create and join groups
+- Add expenses and split bills
+- Real-time sync across users
+- Automatic settlement calculations
+- Firebase user authentication
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+(See how to add below)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run
+1. Clone this repo
+2. Run `flutter pub get`
+3. Add your own Firebase config in `/android/app/google-services.json`
+4. Run using `flutter run` on emulator or device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📎 License
+This project is licensed under the MIT License.
